@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Ranjan",
+      "genre": "quotes",
+      "email": "ranjan@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Steven",
+      "passion": "tech",
+      "email": "steven@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Darren",
+      "passion": "cooking",
+      "email": "darren@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Neetu",
+      "genre": "horror",
+      "email": "neetu@gmail.com",
+      "id": 4
+    }
+  ]
+}

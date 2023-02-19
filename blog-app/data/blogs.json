@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Mind talks",
+      "body": "Welcome to the world of programmatic surveying and survads where you can ask questions and get responses in real time from a highly qualified online audience anytime, anywhere, and across all devices and browsing platforms. If you regularly look for consumer insights for purposes of market research, business intelligence, customer experience, and sales & marketing, then visit mindtalks.ai to know more about this innovative technology and start “mindtalking” right away!",
+      "author": "Ranjan",
+      "id": 1
+    },
+    {
+      "title": "Luctus creation",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Rahul",
+      "id": 2
+    },
+    {
+      "title": "Research importance",
+      "body": "Every content piece has a specific method behind it. It could be about technical aspects or general – the importance of research behind it never fades. That’s why your reader must know why the research was important in the first place. Here’s an example of NASA (image below), one of the biggest organizations in the world, summarizing a blog for social media captions",
+      "author": "Advik",
+      "id": 3
+    },
+    {
+      "title": "Motivation",
+      "body": "don't let anybody pull you down",
+      "author": "Rahul",
+      "id": 4
+    }
+  ]
+}
